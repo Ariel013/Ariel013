@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on some **Gamers Social Network🤧**
 
-- 🌱 I’m currently learning **Kizomba and Python😏😉**
+- 🌱 I’m currently learning **Data Analys with Python😏😉**
 
 - 💬 Ask me about **Javascript, PHP, Laravel and Node Js**
 
